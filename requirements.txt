@@ -1,6 +1,4 @@
-os
-json
 streamlit
 pandas
+python-dotenv
 groq
-dotenv
